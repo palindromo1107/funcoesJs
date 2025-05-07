@@ -1,4 +1,4 @@
-# Funçõesjs
+# FunçõesJs
 
 ## Declaration
 Funções do tipo declaration são aquelas criadas a partir da palavra-chave function seguida do nome da função, seguido de parenteses que entre eles podem conter parâmetros para inserir valores diretamente ao chamar a função. Este tipo de função não é executada de imediato apenas quando ela é invocada.
